@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 hi 
 from main here!!!
-=======
 hi hi 
-sd,sd;'d.,lsamdad'
-d,aspdas;,d
-as,das;d,;
->>>>>>> ABBO
